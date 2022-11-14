@@ -7,6 +7,7 @@ In particular, the following are requested:
  2. Simulation of interaction with electrical appliances and smart shoe box of residents' home.
  3. Simulation of interaction with an automatic pet "feeder".
  4. General system simulation with the user.
- 5.The application should be accompanied by User manual.
+ 5. The application should be accompanied by Technical Manual.
+ 6. The application should be accompanied by User manual.
  
- 6.The application should be accompanied by Technical Manual.
+ 
